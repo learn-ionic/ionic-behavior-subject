@@ -1,0 +1,18 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      BehaviorSubject
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <!-- Use async pipe to resolve BehaviorSubject -->
+  <h2>{{ counter$ | push }}</h2> <!-- Import PushModule in tab2.module.ts -->
+
+  <ion-button (click)="increase()">
+    Increase Value
+  </ion-button>
+
+</ion-content>
