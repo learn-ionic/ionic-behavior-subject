@@ -2,6 +2,7 @@
 Learn how to use the BehaviorSubject to increase the performance of Ionic Apps
 
 ## Preview
+<img src="https://github.com/learn-ionic/ionic-behavior-subject/blob/main/src/assets/preview.gif?raw=true" height="500px">
 
 ## Normal way using ChangeDetection
 This is the normal way of binding values in the UI. Change detection checks the whole page and every single component for changes, every time the user clicks, scrolls or move their mouse. Lots of necessary checks are made. The larger the application gets, the slower it gets!
