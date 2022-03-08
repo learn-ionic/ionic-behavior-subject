@@ -360,10 +360,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/forms@~13.0.0":
-  version "13.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-13.0.3.tgz#10df7cbf8a074c59aaf9616fe7f06728929efbfb"
-  integrity sha512-Sxpc9kiCYi59GzKkpvpqgUejXq7P1dt3l1C5mnV3WBdNEpVBDRD63YLlNTya+w4uSMr+WEbtCys41QO8MXNIHQ==
+"@angular/forms@~13.2.0":
+  version "13.2.5"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-13.2.5.tgz#64dfaf17cae034d8c256e1b3005b02271c0eb49d"
+  integrity sha512-0IOSj6OxW7fcaOLxaBydzFot3QsyQXeASXkq5xXGT10IsufVlnMS6wCULy/Ru3C1YAZZEM/z2rU+2yjjflea6A==
   dependencies:
     tslib "^2.3.0"
 
